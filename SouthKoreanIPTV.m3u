@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.aniplustv.com/img/logo.png" group-title="KOREA", ANIPLUS (애니플러스)
+http://live2.abcdsky.com:1935/live/ANIPLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f636869706747984935.png" group-title="KOREA", TOONIVERSE
+http://live2.abcdsky.com:1935/live/TOONIVERSE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="KOREA",KBS 1
+http://live2.abcdsky.com:1935/live/KBS1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="KOREA",KBS 2
+http://live2.abcdsky.com:1935/live/KBS2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="KOREA",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_joy.png" group-title="KOREA", KBS Joy
+http://live2.abcdsky.com:1935/live/KBSJOY/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.kbsn.co.kr/images/ch_drama.png" group-title="KOREA", KBS Drama
+http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/TVChosun.kr.png" group-title="KOREA", TV CHOSUN 소개
+http://222.234.50.24:9981/stream/channelid/1139023168
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="KOREA",MBC
+http://live2.abcdsky.com:1935/live/MBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_04.png"  group-title="KOREA",MBC Drama
+http://live2.abcdsky.com:1935/live/MBCDRAMA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_01.png" group-title="KOREA",MBC Every 1
+http://live2.abcdsky.com:1935/live/MBCEVERY1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbcplus.com/web/images/common/comm_channel07_06.png" group-title="KOREA",MBC On
+http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.inettv.tv/data/skin/front/dmedi/img/dmedi/logo_on.png" group-title="KOREA",iNET TV (아이넷TV)
+http://live2.abcdsky.com:1935/live/INET/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS
+http://live2.abcdsky.com:1935/live/SBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="KOREA",SBS HD
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="KOREA",SBS PLUS
+http://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="KOREA",SBS Plus HD (SBS플러스)
+http://live2.abcdsky.com:1935/live/SBSPLUS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/skylife/72c273c990926163324.png" group-title="KOREA",SBS F!L UHD
+http://58.229.38.125:9981/stream/channelid/1998526477
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="KOREA",SBS MTV
+http://222.239.213.20:9981/stream/channelid/464614568
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/SBSGolf.kr.png" group-title="KOREA",SBS Golf
+http://live2.abcdsky.com:1935/live/SBSGOLF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png" group-title="KOREA", OBS HD
+http://222.239.213.20:9981/stream/channelid/1796976963
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="KOREA",JTBC
+http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C22041.png" group-title="KOREA",JTBC4 HD
+http://222.234.50.24:9981/stream/channelid/734889899
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/JTBCGolf.kr.png" group-title="KOREA",JTBC Sports
+http://live2.abcdsky.com:1935/live/JTBCGOLF/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="KOREA",tVN
+http://live2.abcdsky.com:1935/live/TVN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mplex.kr.png" group-title="KOREA",Mplex HD
+http://live.yingtaotvapp.com/Mplex/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Screen.kr.png" group-title="KOREA",Screen 4K
+http://222.234.50.24:9981/stream/channelid/1378776160
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MBC_M_logo.svg/330px-MBC_M_logo.svg.png" group-title="KOREA",MBC M
+http://211.245.55.198:1024/m2u/239.192.53.4:49220
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="KOREA",M-NET
+http://live2.abcdsky.com:1935/live/MNET/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="KOREA",OCN
+http://live2.abcdsky.com:1935/live/OCN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/UXN.kr.png" group-title="KOREA",UXN
+http://211.245.55.198:1024/m2u/239.192.81.38:49220
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnmovies.png"  group-title="KOREA",OCNmovies
+http://live2.abcdsky.com:1935/live/OCNMOVIE/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/desktop/images/header/btn_tving_siblings_ocnthrills.png"  group-title="KOREA",OCNthrills
+http://live.yingtaotvapp.com/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01142.png" group-title="KOREA",On Style HD
+http://211.178.72.29:9981/stream/channelid/96115939
+#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="KOREA",One TV
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="KOREA",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="KOREA",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelA.kr.png" group-title="KOREA",Channel A (채널A)
+http://live1.abcdsky.com:1935/live/CHANNELA/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/ChannelChina.kr.png" group-title="KOREA",Channel China (채널차이나)
+http://211.245.55.198:1024/m2u/239.192.64.9:49220
