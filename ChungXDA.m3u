@@ -203,8 +203,6 @@ https://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="iQIYI" group-title="PHIM" tvg-logo="https://www.iqiyipic.com/common/fix/site-v4/qy-pop-logo.png",iQIYI VOD (爱奇艺 HD) 
-http://tvku.live:8888/donal/donal/4314
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies
@@ -225,8 +223,6 @@ https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png",HBO+
-http://88.198.59.55:8080/daniel2/102030/4043
 #EXTINF:-1 tvg-id="HBO Red" group-title="PHIM" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
 #EXTINF:-1 tvg-id="HBO Family" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png",HBO Family
@@ -239,12 +235,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="http://hitstv.com/img/hits-movies-logo.png",HITS
-http://gg.gg/HITSbyCHUNGXDA
-#EXTINF:-1 group-title="PHIM" tvg-logo="http://hitstv.com/assets/logo-HITSMOVIES.png",HITS MOVIES
-http://gg.gg/HITSMOVIES
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://static.epg.best/in/AndFlix.in.png",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="QNET",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
@@ -305,8 +295,6 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png" group-title="QNET",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="KIDS & CARTOON",Animax
-http://gg.gg/AnimaxHD
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://mytv.com.vn/upload/channel/179.png" group-title="KIDS & CARTOON", CARTOON NETWORK ASIA
 https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS & CARTOON",Baby First
@@ -315,10 +303,6 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KIDS & CARTOON",Da Vinci Kids Learning
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="disney" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/764.png" group-title="KIDS & CARTOON",Disney Channel (UK)
-http://gg.gg/DisneyChannelUK
-#EXTINF:-1 tvg-id="isneyjunior" tvg-logo="https://mytv.com.vn/upload/channel/145.png" group-title="KIDS & CARTOON",Disney Junior (UK)
-http://gg.gg/DisneyJuniorUK
 #EXTINF:-1 tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="KIDS & CARTOON",Nickelodeon
 http://gg.gg/NickelodeonChungXDA
 #EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS & CARTOON",Nick Jr
