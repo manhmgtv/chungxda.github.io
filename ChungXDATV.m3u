@@ -3,9 +3,6 @@
 #EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4
 
-#EXTINF:-1 tvg-id="htvc_thuan_viet_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png",HTVC Thuần Việt HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTVC-THUANVIETHD-HD-ABR/HTV-ABR/HTVC-THUANVIETHD-HD-1080p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTEzLjE4NC4yMDAuMTY5IiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjExMy4xODQuMjAwLjE2OSIsImlhdCI6MTYwNjMwNDAwNX0.FXFC678teiefNFS2XQnsFR7H8aaf9iePscslNsTsCAW8kIGfzydzmsuh8k3iwl4MD8Uyya1RZ0E2VgnkjpcR4WhAfpR85nYNKXtwinCZ1UymZV_nV7ZV-MGQEJu9UnjBKM45VYuNsJp86yw3SXJcp_sxyKbViR7BsHOJsY4BSpODHtR9rCEtK6B9_3ZMPmV7qsSmz4y_rvln13xUSeCxFwyGx3TkVr-NNYXLFZQOuHK9Qz9DubYcMNw4GHnk4z8G6euq52ig_kIX98n1NKGFrCjTapyYA9WnFlV03uyy0XuO4B3V9tnZTkh7lLxfGz_dMNpLaEWDnrTx_TK9B_AYP-U8nAQfeQPlRBX_hbMf0jAVkKCZb3Z8NhiRGvn8BVE_H-ELLUXkGeBz0TL4bPdR9MutSVjqQ2bH7tnT8haf9SA4g9foKoLHpaHX_6XTjWeo49nldco1_WLknNw5nNkcjRFcdCQOTzdtC7CE2noSv9A2NrPCtqlkLkWm9Zj-hJfBp996TLbtoO1ctV13OA_IzFFdyFH_hcG696o8aP8u6T3uWnSTBz02OMsnw_tx-l0g7XjanONmjYIeXF8O0T7Xr1D9YyrKt-OvsCGltuzEZfUYnQzbNqUucdEZg5vSQNCpH65VS1UL0JDxnGXv_AadMdMw4OxYWKCE8fkv_C-mxaM
-
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2
