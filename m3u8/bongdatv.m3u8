@@ -4,4 +4,4 @@
 #EXT-X-MEDIA-SEQUENCE:332096
 #EXT-X-KEY:METHOD=AES-128,URI="https://rm.vtvlive.vn/api/v2/key"
 #EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/hls/BDHD/03.m3u8
+http://onsportlive.sbdd1a23.selector.vtvcab.vn/hls/BDHD/01.m3u8
