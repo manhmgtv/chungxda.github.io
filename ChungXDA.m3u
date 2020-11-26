@@ -255,7 +255,7 @@ https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png" group-title="QNET",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png" group-title="QNET",Nat Geo WILD HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="QNET",Discovery Channel | FPT Play
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="QNET",Discovery Channel | Hlus
