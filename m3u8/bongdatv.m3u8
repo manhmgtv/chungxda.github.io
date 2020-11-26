@@ -4,14 +4,4 @@
 #EXT-X-MEDIA-SEQUENCE:332096
 #EXT-X-KEY:METHOD=AES-128,URI="https://rm.vtvlive.vn/api/v2/key",IV=0x00000000000000000000000000000000
 #EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332096.ts
-#EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332097.ts
-#EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332098.ts
-#EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332099.ts
-#EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332100.ts
-#EXTINF:10.0000,
-http://onsportlive.sbdd1a23.selector.vtvcab.vn/20201019T022831-01-332101.ts
+http://onsportlive.sbdd1a23.selector.vtvcab.vn/hls/BDHD/03.m3u8
