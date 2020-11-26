@@ -207,12 +207,16 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMES
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD
+#EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | HPlus
+htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="fox_movies" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",Fox Family Movies
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",Fox Family Movies | FPT Play
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",Fox Family Movies | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
