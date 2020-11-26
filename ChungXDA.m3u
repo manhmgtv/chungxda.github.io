@@ -194,8 +194,10 @@ https://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_gia_dinh" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png",HTVC Gia Đình
 https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTVC Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTVC Thể Thao | FPT Play
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv_the_thao" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTVC Thể Thao | Hplus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC Plus
 https://livecdn.fptplay.net/sdb/htvcplus_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_coop" group-title="HTVC" tvg-logo="http://htvc.vn/uploads/channel/2016/08/31/7613159-htv-coop.png",HTVC CO.OP
@@ -246,8 +248,12 @@ https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484307492.png" group-title="QNET",National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="QNET",Discovery Channel
+#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png" group-title="QNET",Nat Geo WILD HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="QNET",Discovery Channel | FPT Play
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="QNET",Discovery Channel | Hplus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/253.png" group-title="QNET",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="animalhd" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" group-title="QNET",Animal Planet HD
