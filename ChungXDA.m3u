@@ -51,13 +51,13 @@ http://gg.gg/VTVCab4byChungXDA
 http://gg.gg/VTVCab5Echannel
 #EXTINF:-1 tvg-id="vtvcab6_haytv" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVCab6 - Hay TV
 http://gg.gg/VTVCab6byChungXDA
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832376891.png",VTVCab 7 - Sức Khỏe
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/984/1569832376891.png",VTVCab 7 - Sức Khỏe
 http://gg.gg/VTVCab7byChungXDA
 #EXTINF:-1 tvg-id="vtvcab8_bibi" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/BIBI_M.png",VTVCab8 - BiBi
 http://gg.gg/VTVCab8BIBITV
 #EXTINF:-1 tvg-id="vtvcab9_infotv" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/INFO_TV_M.png",VTVCab9 - Info TV
 http://gg.gg/VTVCabInfoTV
-#EXTINF:-1 tvg-id="" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD | VieON 
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas HD | VieON 
 http://chungxda.github.io/m3u8/VTVCab10VieON.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/D_DRAMAS_HD_M.png",VTVCab10 - Vie Dramas SD | TV24 SCTV
 http://gg.gg/http://gg.gg/VTVCab10SDbyChungXDA
@@ -209,7 +209,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="K+1 (HD)" group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpGSaKkJ_5d7659ced82c5.png",K+1 
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpGSaKkJ_5d7659ced82c5.png",K+1 
 http://chungxda.github.io/m3u8/K1HD.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
