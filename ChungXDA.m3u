@@ -301,7 +301,7 @@ http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cna_channel_news_asia" tvg-logo="https://imgstatic.vtvcab.vn/logos/CNA_M.png" group-title="QNET",CNA - Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="bloomberg" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/552.png?rand=978" group-title="QNET",Bloomberg TV
-http://dai.google.com/linear/hls/pb/event/BVlOmFGaTi6NpchccR14yA/stream/29be9896-78ea-4b90-b781-e75b258cde84:TPE/variant/8927a9cea8333e5444f5ce266a0739dd/bandwidth/2400000.m3u8
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="QNET",TV5 Monde Asie
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="QNET",France 24
