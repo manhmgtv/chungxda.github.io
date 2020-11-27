@@ -223,18 +223,24 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxmovieshd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/573/1585726539043.png",Fox Family Movies | HPlus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",Fox Life
+#EXTINF:-1 tvg-id="foxlifehd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",Fox Life | FPT Play
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxlifehd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",Fox Life | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="PHIM" tvg-logo="http://img.hplus.com.vn/226x127/poster/2020/08/03/744316-Paramount-xanh-fix.png",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld | FPT Play
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="PHIM",CinemaWorld | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/177.png" ,AXN | FPT Play
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/177.png" ,AXN | HPlus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV | FPT Play
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="warner_tv_hd" group-title="PHIM" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV | HPlus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="PHIM",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="PHIM" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
