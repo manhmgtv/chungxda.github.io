@@ -213,10 +213,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/box_movie2.jpg",Box Movie 1 HD
-http://chungxda.github.io/m3u8/BoxMovie1HD.m3u8
-#EXTINF:-1 group-title="PHIM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/hollywood2.jpg",Hollywood Classics HD
-http://chungxda.github.io/m3u8/HollywoodClassics.m3u8
+
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | HPlus
@@ -263,8 +260,7 @@ http://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 http://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax" group-title="PHIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png",CINEMAX
 http://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1  group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/235/1582342017035.png",FX HD
-https://106bec9d8.vws.vegacdn.vn/019f6b8e80d47aa4ffb843d595b8fd175a70ebc8/1606577252/cliptv_live/amlst:fxhd/chunklist_b2620000.m3u8
+
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946228444.png" group-title="QNET",Blue Ant Extreme
 http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="asian_food_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png" group-title="QNET",Asian Food Channel | FPT Play
