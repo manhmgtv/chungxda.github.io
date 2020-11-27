@@ -1,0 +1,5 @@
+
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+http://106bec9d8.vws.vegacdn.vn/ed91f98f6a7cb5e6f737d46b6db33b4b9a1034db/1606574865/cliptv_live/amlst:hollywoodclassichd/chunklist.m3u8
