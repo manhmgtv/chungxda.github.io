@@ -691,6 +691,8 @@ http://203.162.235.41:16916
 #EXTINF:-1  tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="JAPAN TV",GEM TV
 http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
+#EXTINF:0 tvg-id="esport01" group-title="SPORT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png",Epic Prime League TV
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="foxsportshd" group-title="SPORT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="foxsports2hd" group-title="SPORT TV" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
