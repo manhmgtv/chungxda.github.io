@@ -209,7 +209,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpGSaKkJ_5d7659ced82c5.png",K+1 
+#EXTINF:-1 tvg-id="K+1 (HD)" group-title="PHIM" tvg-logo="https://mytv.com.vn/upload/channel/phpGSaKkJ_5d7659ced82c5.png",K+1 
 http://chungxda.github.io/m3u8/K1HD.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
