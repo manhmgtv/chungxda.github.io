@@ -213,6 +213,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="HTVC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png",FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/box_movie2.jpg",Box Movie 1 HD
+http://106bec9d8.vws.vegacdn.vn/23824234ff73850ff9f18f4bc3c22eb4917f426d/1606574964/cliptv_live/amlst:boxmovies1hd/chunklist.m3u8
+#EXTINF:-1 group-title="PHIM" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/hollywood2.jpg",Hollywood Classics HD
+http://106bec9d8.vws.vegacdn.vn/ed91f98f6a7cb5e6f737d46b6db33b4b9a1034db/1606574865/cliptv_live/amlst:hollywoodclassichd/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | FPT Play
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="PHIM" tvg-logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png",Fox HD | HPlus
